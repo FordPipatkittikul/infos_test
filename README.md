@@ -1,4 +1,4 @@
-# demoTest
+# infos_test
 
 ## Why does the User class have TWO constructors?
 
